@@ -1,0 +1,378 @@
+Skip to content <#start-of-content>
+
+
+    Navigation Menu
+
+Toggle navigation
+<https://github.com/>
+Sign in <https://github.com/login?
+return_to=https%3A%2F%2Fgithub.com%2Fs0md3v%2Froop%2Fwiki%2F1.3-Setup-
+Windows>
+
+  *
+    Product
+
+      o
+
+        Actions
+        Automate any workflow
+        <https://github.com/features/actions>
+      o
+
+        Packages
+        Host and manage packages
+        <https://github.com/features/packages>
+      o
+
+        Security
+        Find and fix vulnerabilities
+        <https://github.com/features/security>
+      o
+
+        Codespaces
+        Instant dev environments
+        <https://github.com/features/codespaces>
+      o
+
+        Copilot
+        Write better code with AI
+        <https://github.com/features/copilot>
+      o
+
+        Code review
+        Manage code changes
+        <https://github.com/features/code-review>
+      o
+
+        Issues
+        Plan and track work
+        <https://github.com/features/issues>
+      o
+
+        Discussions
+        Collaborate outside of code
+        <https://github.com/features/discussions>
+    Explore
+      o All features <https://github.com/features>
+      o Documentation <https://docs.github.com/>
+      o GitHub Skills <https://skills.github.com/>
+      o Blog <https://github.blog/>
+  *
+    Solutions
+
+    For
+      o Enterprise <https://github.com/enterprise>
+      o Teams <https://github.com/team>
+      o Startups <https://github.com/enterprise/startups>
+      o Education <https://education.github.com/>
+    By Solution
+      o CI/CD & Automation <https://github.com/solutions/ci-cd>
+      o DevOps <https://github.com/solutions/devops>
+      o DevSecOps <https://resources.github.com/devops/fundamentals/
+        devsecops>
+    Resources
+      o Learning Pathways <https://resources.github.com/learn/pathways>
+      o White papers, Ebooks, Webinars <https://resources.github.com/>
+      o Customer Stories <https://github.com/customer-stories>
+      o Partners <https://partner.github.com/>
+  *
+    Open Source
+
+      o
+        GitHub Sponsors
+        Fund open source developers
+        <https://github.com/sponsors>
+      o
+        The ReadME Project
+        GitHub community articles
+        <https://github.com/readme>
+    Repositories
+      o Topics <https://github.com/topics>
+      o Trending <https://github.com/trending>
+      o Collections <https://github.com/collections>
+  * Pricing <https://github.com/pricing>
+
+Search or jump to...
+
+
+  Search code, repositories, users, issues, pull requests...
+
+Search
+
+Clear
+
+Search syntax tips <https://docs.github.com/search-github/github-code-
+search/understanding-github-code-search-syntax>
+
+
+  Provide feedback
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel
+
+Submit feedback
+
+
+  Saved searches
+
+
+    Use saved searches to filter your results more quickly
+
+Name
+Query
+
+To see all available qualifiers, see our documentation <https://
+docs.github.com/search-github/github-code-search/understanding-github-
+code-search-syntax>.
+
+Cancel
+
+Create saved search
+
+Sign in <https://github.com/login?
+return_to=https%3A%2F%2Fgithub.com%2Fs0md3v%2Froop%2Fwiki%2F1.3-Setup-
+Windows>
+Sign up <https://github.com/signup?
+ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-
+name%3E%2F%3Crepo-name%3E%2Fwiki%2Fshow&source=header-
+repo&source_repo=s0md3v%2Froop>
+
+You signed in with another tab or window. Reload to refresh your
+session. You signed out in another tab or window. Reload to refresh your
+session. You switched accounts on another tab or window. Reload to
+refresh your session.
+
+Dismiss alert
+{{ message }}
+
+s0md3v <https://github.com/s0md3v> /
+*roop <https://github.com/s0md3v/roop>
+
+* Public
+
+  *
+    Sponsor
+
+
+      Sponsor s0md3v/roop
+
+
+              GitHub Sponsors
+
+    Learn more about Sponsors <https://github.com/sponsors>
+    @s0md3v <https://github.com/s0md3v>
+
+    s0md3v <https://github.com/s0md3v>
+
+    s0md3v <https://github.com/s0md3v>
+
+    Sponsor <https://github.com/sponsors/s0md3v>
+    @henryruhs <https://github.com/henryruhs>
+
+    henryruhs <https://github.com/henryruhs>
+
+    henryruhs <https://github.com/henryruhs>
+
+    Sponsor <https://github.com/sponsors/henryruhs>
+
+
+              External links
+
+    https://paypal.me/s0md3v <https://paypal.me/s0md3v>
+
+    https://paypal.me/henryruhs <https://paypal.me/henryruhs>
+
+    Learn more about funding links in repositories <https://
+    docs.github.com/repositories/managing-your-repositorys-settings-and-
+    features/customizing-your-repository/displaying-a-sponsor-button-in-
+    your-repository>.
+
+    Report abuse <https://github.com/contact/report-abuse?
+    report=s0md3v%2Froop+%28Repository+Funding+Links%29>
+
+  * Notifications <https://github.com/login?return_to=%2Fs0md3v%2Froop>
+  * Fork 6k <https://github.com/login?return_to=%2Fs0md3v%2Froop>
+  *
+    Star 25.1k <https://github.com/login?return_to=%2Fs0md3v%2Froop>
+
+  *
+
+    Code <https://github.com/s0md3v/roop>
+  *
+
+    Pull requests 1 <https://github.com/s0md3v/roop/pulls>
+  *
+
+    Actions <https://github.com/s0md3v/roop/actions>
+  *
+
+    Projects 0 <https://github.com/s0md3v/roop/projects>
+  *
+
+    Wiki <https://github.com/s0md3v/roop/wiki>
+  *
+
+    Security <https://github.com/s0md3v/roop/security>
+  *
+
+    Insights <https://github.com/s0md3v/roop/pulse>
+
+Additional navigation options
+
+  *
+
+    Code <https://github.com/s0md3v/roop>
+  *
+
+    Pull requests <https://github.com/s0md3v/roop/pulls>
+  *
+
+    Actions <https://github.com/s0md3v/roop/actions>
+  *
+
+    Projects <https://github.com/s0md3v/roop/projects>
+  *
+
+    Wiki <https://github.com/s0md3v/roop/wiki>
+  *
+
+    Security <https://github.com/s0md3v/roop/security>
+  *
+
+    Insights <https://github.com/s0md3v/roop/pulse>
+
+
+  1.3 Setup Windows
+
+Jump to bottom <#wiki-pages-box>
+Henry Ruhs edited this page Aug 18, 2023 · 1 revision <https://
+github.com/s0md3v/roop/wiki/1.3-Setup-Windows/_history>
+
+
+      Python
+
+<#python>
+
+|winget install -e --id Python.Python.3.10
+|
+
+
+      PIP
+
+<#pip>
+
+|python -m ensurepip
+|
+
+
+      GIT
+
+<#git>
+
+|winget install -e --id Git.Git
+|
+
+
+      FFmpeg
+
+<#ffmpeg>
+
+|winget install -e --id Gyan.FFmpeg
+|
+
+Reboot your system in order for FFmpeg to function properly.
+
+|shutdown /r
+|
+
+
+      Toolset
+
+<#toolset>
+
+
+        Microsoft Visual C++ 2015 Redistributable
+
+<#microsoft-visual-c-2015-redistributable>
+
+|winget install -e --id Microsoft.VCRedist.2015+.x64
+|
+
+
+        Microsoft Visual Studio 2022 build tools
+
+<#microsoft-visual-studio-2022-build-tools>
+
+During installation, ensure to select the Desktop Development with C++
+package.
+
+|winget install -e --id Microsoft.VisualStudio.2022.BuildTools --override "--wait --add Microsoft.VisualStudio.Workload.NativeDesktop --includeRecommended"
+|
+
+
+      Toggle table of contents Pages 6
+
+  *
+    Home <https://github.com/s0md3v/roop/wiki>
+
+  *
+    1. Installation <https://github.com/s0md3v/roop/wiki/1.-Installation>
+
+  *
+    1.1 Setup Linux <https://github.com/s0md3v/roop/wiki/1.1-Setup-Linux>
+
+  *
+    1.2 Setup MacOS <https://github.com/s0md3v/roop/wiki/1.2-Setup-MacOS>
+
+  *
+    1.3 Setup Windows <https://github.com/s0md3v/roop/wiki/1.3-Setup-
+    Windows>
+
+      o Python <https://github.com/s0md3v/roop/wiki/1.3-Setup-
+        Windows#python>
+      o PIP <https://github.com/s0md3v/roop/wiki/1.3-Setup-Windows#pip>
+      o GIT <https://github.com/s0md3v/roop/wiki/1.3-Setup-Windows#git>
+      o FFmpeg <https://github.com/s0md3v/roop/wiki/1.3-Setup-
+        Windows#ffmpeg>
+      o Toolset <https://github.com/s0md3v/roop/wiki/1.3-Setup-
+        Windows#toolset>
+      o Microsoft Visual C++ 2015 Redistributable <https://github.com/
+        s0md3v/roop/wiki/1.3-Setup-Windows#microsoft-visual-c-2015-
+        redistributable>
+      o Microsoft Visual Studio 2022 build tools <https://github.com/
+        s0md3v/roop/wiki/1.3-Setup-Windows#microsoft-visual-studio-2022-
+        build-tools>
+
+  *
+    2. Acceleration <https://github.com/s0md3v/roop/wiki/2.-Acceleration>
+
+
+          Clone this wiki locally
+
+
+    Footer
+
+<https://github.com/> © 2024 GitHub, Inc.
+
+
+      Footer navigation
+
+  * Terms <https://docs.github.com/site-policy/github-terms/github-
+    terms-of-service>
+  * Privacy <https://docs.github.com/site-policy/privacy-policies/
+    github-privacy-statement>
+  * Security <https://github.com/security>
+  * Status <https://www.githubstatus.com/>
+  * Docs <https://docs.github.com/>
+  * Contact <https://support.github.com/?tags=dotcom-footer>
+  *
+    Manage cookies
+
+  *
+    Do not share my personal information
+
+You can’t perform that action at this time.
+1.3 Setup Windows · s0md3v/roop Wiki · GitHub
